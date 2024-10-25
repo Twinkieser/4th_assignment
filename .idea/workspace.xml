@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ce41a77-4cc0-4809-a77b-1d3cc1403146" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment4-Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FifthTask/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FifthTask/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FifthTask/MediatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstTask/ChainOfResponsibilityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstTask/ConcreteHandler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstTask/ConcreteHandler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstTask/ConcreteHandler3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstTask/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourthTask/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourthTask/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourthTask/NameRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondTask/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondTask/CommandDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondTask/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondTask/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondTask/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondTask/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SixthTask/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SixthTask/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SixthTask/MementoDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SixthTask/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdTask/AndExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdTask/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdTask/InterpreterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdTask/OrExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdTask/TerminalExpression.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2nZXS6ZfMhX3WakUActTGrGrQfp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChainOfResponsibilityDemo.executor": "Run",
+    "Application.CommandDemo.executor": "Run",
+    "Application.InterpreterDemo.executor": "Run",
+    "Application.IteratorDemo.executor": "Run",
+    "Application.MediatorDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Аскат Наринбетов/IdeaProjects/Assignment4-Patterns/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ce41a77-4cc0-4809-a77b-1d3cc1403146" name="Changes" comment="" />
+      <created>1729181572032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729181572032</updated>
+      <workItem from="1729181573165" duration="3496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
